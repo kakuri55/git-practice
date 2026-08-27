@@ -4,3 +4,4 @@ Learning Git
 Feature development
 Pushed to GitHub
 Changed on GitHub
+Fetched from GitHub
